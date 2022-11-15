@@ -4,7 +4,7 @@ namespace Zelenin\Elo;
 
 use Closure;
 
-class Match
+class EloMatch
 {
     /** @var Player */
     private $player1;
